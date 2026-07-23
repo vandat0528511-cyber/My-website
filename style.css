@@ -27,14 +27,14 @@ img:hover {
 }
 body {
   display: grid;
-  justify-content: center; /* Căn giữa tất cả thành phần theo chiều ngang */
-  align-content: center;   /* Căn giữa theo chiều dọc */
+  justify-content: center; 
+  align-content: center;   
   min-height: 100vh;
   margin: 0;
 }
 .thumbnails-container {
   display: flex;
-  justify-content: center; /* Căn giữa các ảnh nhỏ bên trong */
+  justify-content: center; 
   margin-top: 10px;
 }
 
